@@ -1,2 +1,2 @@
 # proyecto--Menu-responsive
-pequeño proyecto para lacracion de navs e imagenes responsives 
+pequeño proyecto para la creacion de navs e imagenes responsives 
