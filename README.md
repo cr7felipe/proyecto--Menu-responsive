@@ -3,7 +3,7 @@ welcome to the responsive menu repository
 </h1>
 <h4> can you see the website here ψ(._. )>
 </h4>
-<a  href="https://mimenubasico-responsive.netlify.app/" target="_blank" >
+<a  href="https://mimenubasico-responsive.netlify.app/" target="_blank" > the website
 </a>
 <a href="https://mimenubasico-responsive.netlify.app/"> the website </a>
 <img src="menu.png">
